@@ -1,0 +1,6 @@
+OrderID,Customer,Category,SalesAmount,Country,OrderDate
+1,John,Electronics,500,Spain,2025-01-01
+2,Maria,Clothing,300,Spain,2025-01-02
+3,Alex,Electronics,700,France,2025-01-03
+4,Sara,Home,200,Spain,2025-01-04
+5,David,Clothing,450,Italy,2025-01-05
